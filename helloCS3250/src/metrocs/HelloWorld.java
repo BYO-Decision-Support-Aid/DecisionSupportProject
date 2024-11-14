@@ -1,4 +1,4 @@
-package metrocs;
+package helloCS3250.src.metrocs;
 
 /**
  * Expansion of classic Hello World program

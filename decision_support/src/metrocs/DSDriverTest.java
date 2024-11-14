@@ -1,4 +1,4 @@
-package metrocs;
+package decision_support.src.metrocs;
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
@@ -20,7 +20,7 @@ public class DSDriverTest {
 
         String[] arguments = new String[] {
             "argA", "argB" };
-        metrocs.DSDriver.main(arguments);
-        assertNotNull(new metrocs.DSDriver());
+        DSDriver.main(arguments);
+        assertNotNull(new DSDriver());
     }
 }

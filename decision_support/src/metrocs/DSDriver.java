@@ -1,4 +1,4 @@
-package metrocs;
+package decision_support.src.metrocs;
 
 /**
  * Command-line ready driver for Decision Support.

@@ -1,4 +1,4 @@
-package metrocs;
+package helloCS3250.src.metrocs;
 /**
  * Extension to support demonstration of inheritance.
  *
